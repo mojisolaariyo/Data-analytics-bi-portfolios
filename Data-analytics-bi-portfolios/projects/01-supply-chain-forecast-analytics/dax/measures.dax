@@ -1,7 +1,0 @@
-Actual Units = SUM(SupplyChain[actual_units])
-Forecast Units = SUM(SupplyChain[forecast_units])
-Forecast Variance = [Forecast Units] - [Actual Units]
-Forecast Variance % = DIVIDE([Forecast Variance], [Actual Units])
-Average Service Level % = AVERAGE(SupplyChain[service_level_pct])
-sMAPE % = AVERAGEX(SupplyChain, DIVIDE(200 * ABS(SupplyChain[forecast_units] - SupplyChain[actual_units]), ABS(SupplyChain[actual_units]) + ABS(SupplyChain[forecast_units])))
-Exception Count = CALCULATE(COUNTROWS(SupplyChain), FILTER(SupplyChain, SupplyChain[smape_pct] >= 20 || SupplyChain[service_level_pct] < 95))
