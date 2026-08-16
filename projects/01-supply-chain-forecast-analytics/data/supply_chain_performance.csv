@@ -1,0 +1,301 @@
+month,country,distribution_centre,category,product,forecast_units,actual_units,smape_pct,service_level_pct,inventory_units,exception_type
+2025-01-01,Germany,DC Berlin,Ambient,Pasta,6984,8824,23.28,95.23,2623,High Forecast Error
+2025-01-01,Germany,DC Berlin,Ambient,Rice,13067,15935,19.78,95.22,3087,Under Forecast
+2025-01-01,Germany,DC Berlin,Fresh,Dairy,16149,15279,5.54,95.76,4435,Within Tolerance
+2025-01-01,Germany,DC Berlin,Fresh,Produce,12228,13873,12.6,95.64,2099,Under Forecast
+2025-01-01,Germany,DC Berlin,Frozen,Frozen Meals,10588,9615,9.63,96.64,3283,Over Forecast
+2025-01-01,Germany,DC Cologne,Ambient,Pasta,10349,12514,18.94,94.4,2738,Low Service Level
+2025-01-01,Germany,DC Cologne,Ambient,Rice,13047,11333,14.06,95.08,3906,Over Forecast
+2025-01-01,Germany,DC Cologne,Fresh,Dairy,10775,13201,20.24,93.94,4318,High Forecast Error
+2025-01-01,Germany,DC Cologne,Fresh,Produce,13514,12925,4.46,95.18,2528,Within Tolerance
+2025-01-01,Germany,DC Cologne,Frozen,Frozen Meals,14479,11741,20.88,90.98,2654,High Forecast Error
+2025-01-01,UK,DC Midlands,Ambient,Pasta,15473,14428,6.99,96.54,2769,Within Tolerance
+2025-01-01,UK,DC Midlands,Ambient,Rice,12544,11374,9.78,95.27,3151,Over Forecast
+2025-01-01,UK,DC Midlands,Fresh,Dairy,17569,15751,10.91,97.35,5480,Over Forecast
+2025-01-01,UK,DC Midlands,Fresh,Produce,11604,10598,9.06,94.63,2075,Low Service Level
+2025-01-01,UK,DC Midlands,Frozen,Frozen Meals,8656,7525,13.98,96.4,2503,Over Forecast
+2025-01-01,UK,DC North,Ambient,Pasta,10670,12155,13.01,96.0,3386,Under Forecast
+2025-01-01,UK,DC North,Ambient,Rice,8423,9340,10.32,97.01,1892,Within Tolerance
+2025-01-01,UK,DC North,Fresh,Dairy,16725,14019,17.6,94.74,4900,Low Service Level
+2025-01-01,UK,DC North,Fresh,Produce,15456,15348,0.7,94.98,2771,Low Service Level
+2025-01-01,UK,DC North,Frozen,Frozen Meals,11010,9621,13.47,96.31,2177,Over Forecast
+2025-01-01,Austria,DC Vienna,Ambient,Pasta,15011,14668,2.31,94.12,2234,Low Service Level
+2025-01-01,Austria,DC Vienna,Ambient,Rice,9707,8876,8.94,95.85,2469,Within Tolerance
+2025-01-01,Austria,DC Vienna,Fresh,Dairy,8077,8827,8.87,97.37,2599,Within Tolerance
+2025-01-01,Austria,DC Vienna,Fresh,Produce,13884,11315,20.39,92.43,1938,High Forecast Error
+2025-01-01,Austria,DC Vienna,Frozen,Frozen Meals,13876,11889,15.42,94.37,2672,Low Service Level
+2025-02-01,Germany,DC Berlin,Ambient,Pasta,9917,9646,2.77,94.89,1448,Low Service Level
+2025-02-01,Germany,DC Berlin,Ambient,Rice,12369,12310,0.48,97.55,4272,Within Tolerance
+2025-02-01,Germany,DC Berlin,Fresh,Dairy,10716,12038,11.62,97.04,1995,Under Forecast
+2025-02-01,Germany,DC Berlin,Fresh,Produce,17287,14962,14.42,94.09,2621,Low Service Level
+2025-02-01,Germany,DC Berlin,Frozen,Frozen Meals,17974,14787,19.46,94.76,4012,Low Service Level
+2025-02-01,Germany,DC Cologne,Ambient,Pasta,12640,10470,18.78,91.91,3063,Low Service Level
+2025-02-01,Germany,DC Cologne,Ambient,Rice,16756,13537,21.25,93.09,3432,High Forecast Error
+2025-02-01,Germany,DC Cologne,Fresh,Dairy,8030,8982,11.19,97.74,2342,Under Forecast
+2025-02-01,Germany,DC Cologne,Fresh,Produce,8309,10608,24.31,93.99,1734,High Forecast Error
+2025-02-01,Germany,DC Cologne,Frozen,Frozen Meals,8832,7514,16.13,96.0,2132,Over Forecast
+2025-02-01,UK,DC Midlands,Ambient,Pasta,10805,10510,2.77,95.11,2788,Within Tolerance
+2025-02-01,UK,DC Midlands,Ambient,Rice,12528,10981,13.16,94.77,1860,Low Service Level
+2025-02-01,UK,DC Midlands,Fresh,Dairy,13260,14062,5.87,96.36,2262,Within Tolerance
+2025-02-01,UK,DC Midlands,Fresh,Produce,6957,8612,21.26,91.69,1480,High Forecast Error
+2025-02-01,UK,DC Midlands,Frozen,Frozen Meals,8796,10139,14.19,96.21,2086,Under Forecast
+2025-02-01,UK,DC North,Ambient,Pasta,13114,11092,16.71,94.27,3563,Low Service Level
+2025-02-01,UK,DC North,Ambient,Rice,6911,8604,21.82,90.49,2958,High Forecast Error
+2025-02-01,UK,DC North,Fresh,Dairy,9312,10872,15.46,94.42,2503,Low Service Level
+2025-02-01,UK,DC North,Fresh,Produce,6812,7960,15.54,95.82,2669,Under Forecast
+2025-02-01,UK,DC North,Frozen,Frozen Meals,13171,14454,9.29,95.21,4433,Within Tolerance
+2025-02-01,Austria,DC Vienna,Ambient,Pasta,12745,14973,16.08,92.91,3980,Low Service Level
+2025-02-01,Austria,DC Vienna,Ambient,Rice,12834,15883,21.23,95.6,3897,High Forecast Error
+2025-02-01,Austria,DC Vienna,Fresh,Dairy,13384,15701,15.93,92.92,2939,Low Service Level
+2025-02-01,Austria,DC Vienna,Fresh,Produce,8848,8113,8.67,97.06,2662,Within Tolerance
+2025-02-01,Austria,DC Vienna,Frozen,Frozen Meals,11544,11033,4.53,97.84,3106,Within Tolerance
+2025-03-01,Germany,DC Berlin,Ambient,Pasta,14406,15565,7.73,96.96,3313,Within Tolerance
+2025-03-01,Germany,DC Berlin,Ambient,Rice,10920,11351,3.87,95.31,2420,Within Tolerance
+2025-03-01,Germany,DC Berlin,Fresh,Dairy,6422,8188,24.18,92.83,1392,High Forecast Error
+2025-03-01,Germany,DC Berlin,Fresh,Produce,13880,15808,12.99,96.94,5156,Under Forecast
+2025-03-01,Germany,DC Berlin,Frozen,Frozen Meals,10452,11002,5.13,97.37,3198,Within Tolerance
+2025-03-01,Germany,DC Cologne,Ambient,Pasta,12276,15666,24.26,92.83,4428,High Forecast Error
+2025-03-01,Germany,DC Cologne,Ambient,Rice,8295,9200,10.35,94.44,1666,Low Service Level
+2025-03-01,Germany,DC Cologne,Fresh,Dairy,12292,11616,5.66,95.13,3216,Within Tolerance
+2025-03-01,Germany,DC Cologne,Fresh,Produce,11466,11325,1.24,97.0,1814,Within Tolerance
+2025-03-01,Germany,DC Cologne,Frozen,Frozen Meals,16190,13939,14.94,97.82,2456,Over Forecast
+2025-03-01,UK,DC Midlands,Ambient,Pasta,9646,11291,15.71,93.12,2960,Low Service Level
+2025-03-01,UK,DC Midlands,Ambient,Rice,7195,8832,20.43,90.76,2289,High Forecast Error
+2025-03-01,UK,DC Midlands,Fresh,Dairy,13675,13049,4.68,97.41,2762,Within Tolerance
+2025-03-01,UK,DC Midlands,Fresh,Produce,9134,7653,17.64,95.41,1305,Over Forecast
+2025-03-01,UK,DC Midlands,Frozen,Frozen Meals,16772,13658,20.47,91.22,2695,High Forecast Error
+2025-03-01,UK,DC North,Ambient,Pasta,11875,9662,20.55,91.11,1497,High Forecast Error
+2025-03-01,UK,DC North,Ambient,Rice,14183,12442,13.08,96.35,3695,Over Forecast
+2025-03-01,UK,DC North,Fresh,Dairy,9989,11065,10.22,94.85,3590,Low Service Level
+2025-03-01,UK,DC North,Fresh,Produce,12980,14711,12.5,94.73,3105,Low Service Level
+2025-03-01,UK,DC North,Frozen,Frozen Meals,9468,10728,12.48,95.36,2207,Under Forecast
+2025-03-01,Austria,DC Vienna,Ambient,Pasta,9966,8137,20.21,93.96,1871,High Forecast Error
+2025-03-01,Austria,DC Vienna,Ambient,Rice,14717,15785,7.0,97.89,3192,Within Tolerance
+2025-03-01,Austria,DC Vienna,Fresh,Dairy,9052,11349,22.52,93.58,3487,High Forecast Error
+2025-03-01,Austria,DC Vienna,Fresh,Produce,14982,14149,5.72,95.95,3754,Within Tolerance
+2025-03-01,Austria,DC Vienna,Frozen,Frozen Meals,8943,11173,22.17,93.7,3478,High Forecast Error
+2025-04-01,Germany,DC Berlin,Ambient,Pasta,9691,10228,5.39,97.72,2210,Within Tolerance
+2025-04-01,Germany,DC Berlin,Ambient,Rice,13177,12143,8.17,97.5,3053,Within Tolerance
+2025-04-01,Germany,DC Berlin,Fresh,Dairy,12733,13691,7.25,95.21,2579,Within Tolerance
+2025-04-01,Germany,DC Berlin,Fresh,Produce,14421,13211,8.76,94.39,2777,Low Service Level
+2025-04-01,Germany,DC Berlin,Frozen,Frozen Meals,18589,15977,15.11,95.15,4907,Over Forecast
+2025-04-01,Germany,DC Cologne,Ambient,Pasta,12204,12279,0.61,96.23,3004,Within Tolerance
+2025-04-01,Germany,DC Cologne,Ambient,Rice,10592,9780,7.97,96.86,2678,Within Tolerance
+2025-04-01,Germany,DC Cologne,Fresh,Dairy,9865,8530,14.51,95.0,1663,Low Service Level
+2025-04-01,Germany,DC Cologne,Fresh,Produce,8700,10262,16.48,93.86,2794,Low Service Level
+2025-04-01,Germany,DC Cologne,Frozen,Frozen Meals,8107,8193,1.06,94.46,2406,Low Service Level
+2025-04-01,UK,DC Midlands,Ambient,Pasta,13390,13291,0.74,97.02,2008,Within Tolerance
+2025-04-01,UK,DC Midlands,Ambient,Rice,9954,8746,12.92,97.12,2529,Over Forecast
+2025-04-01,UK,DC Midlands,Fresh,Dairy,11734,14611,21.84,93.46,3526,High Forecast Error
+2025-04-01,UK,DC Midlands,Fresh,Produce,15884,14612,8.34,94.05,4968,Low Service Level
+2025-04-01,UK,DC Midlands,Frozen,Frozen Meals,15132,14251,6.0,95.12,4505,Within Tolerance
+2025-04-01,UK,DC North,Ambient,Pasta,15738,15976,1.5,97.36,3834,Within Tolerance
+2025-04-01,UK,DC North,Ambient,Rice,12888,11050,15.36,93.56,2728,Low Service Level
+2025-04-01,UK,DC North,Fresh,Dairy,9896,10919,9.83,97.69,2231,Within Tolerance
+2025-04-01,UK,DC North,Fresh,Produce,14573,12238,17.42,96.23,2773,Over Forecast
+2025-04-01,UK,DC North,Frozen,Frozen Meals,10500,9503,9.97,97.74,2457,Over Forecast
+2025-04-01,Austria,DC Vienna,Ambient,Pasta,11169,13812,21.16,92.5,4198,High Forecast Error
+2025-04-01,Austria,DC Vienna,Ambient,Rice,8594,7320,16.01,92.8,1107,Low Service Level
+2025-04-01,Austria,DC Vienna,Fresh,Dairy,11708,12763,8.62,96.44,4048,Within Tolerance
+2025-04-01,Austria,DC Vienna,Fresh,Produce,17777,15818,11.66,95.82,3070,Over Forecast
+2025-04-01,Austria,DC Vienna,Frozen,Frozen Meals,9594,10595,9.92,96.06,3007,Within Tolerance
+2025-05-01,Germany,DC Berlin,Ambient,Pasta,15165,13624,10.71,94.64,4716,Low Service Level
+2025-05-01,Germany,DC Berlin,Ambient,Rice,12481,15751,23.17,93.73,2448,High Forecast Error
+2025-05-01,Germany,DC Berlin,Fresh,Dairy,11812,14022,17.11,95.0,3166,Under Forecast
+2025-05-01,Germany,DC Berlin,Fresh,Produce,10354,10467,1.09,96.65,2153,Within Tolerance
+2025-05-01,Germany,DC Berlin,Frozen,Frozen Meals,12460,13906,10.97,97.67,3586,Under Forecast
+2025-05-01,Germany,DC Cologne,Ambient,Pasta,11245,12733,12.41,97.73,2012,Under Forecast
+2025-05-01,Germany,DC Cologne,Ambient,Rice,9136,7508,19.56,96.14,1355,Over Forecast
+2025-05-01,Germany,DC Cologne,Fresh,Dairy,9048,9068,0.22,97.54,2204,Within Tolerance
+2025-05-01,Germany,DC Cologne,Fresh,Produce,12685,11198,12.45,97.33,3355,Over Forecast
+2025-05-01,Germany,DC Cologne,Frozen,Frozen Meals,10099,8876,12.89,97.34,2359,Over Forecast
+2025-05-01,UK,DC Midlands,Ambient,Pasta,12654,12111,4.39,94.37,4097,Low Service Level
+2025-05-01,UK,DC Midlands,Ambient,Rice,8353,10249,20.38,92.36,1746,High Forecast Error
+2025-05-01,UK,DC Midlands,Fresh,Dairy,13985,11941,15.77,94.24,4141,Low Service Level
+2025-05-01,UK,DC Midlands,Fresh,Produce,7209,7672,6.22,96.29,1927,Within Tolerance
+2025-05-01,UK,DC Midlands,Frozen,Frozen Meals,9893,12590,23.99,93.85,2980,High Forecast Error
+2025-05-01,UK,DC North,Ambient,Pasta,13870,12934,6.98,94.69,3067,Low Service Level
+2025-05-01,UK,DC North,Ambient,Rice,19033,15548,20.16,93.5,4006,High Forecast Error
+2025-05-01,UK,DC North,Fresh,Dairy,14829,14921,0.62,94.7,3200,Low Service Level
+2025-05-01,UK,DC North,Fresh,Produce,12809,11022,15.0,97.65,2191,Over Forecast
+2025-05-01,UK,DC North,Frozen,Frozen Meals,15229,14613,4.13,95.33,3637,Within Tolerance
+2025-05-01,Austria,DC Vienna,Ambient,Pasta,10644,12325,14.64,97.15,2688,Under Forecast
+2025-05-01,Austria,DC Vienna,Ambient,Rice,11937,11526,3.5,95.93,2285,Within Tolerance
+2025-05-01,Austria,DC Vienna,Fresh,Dairy,13723,13658,0.47,94.97,3813,Low Service Level
+2025-05-01,Austria,DC Vienna,Fresh,Produce,14833,15041,1.39,97.93,3473,Within Tolerance
+2025-05-01,Austria,DC Vienna,Frozen,Frozen Meals,10117,10986,8.24,95.67,2814,Within Tolerance
+2025-06-01,Germany,DC Berlin,Ambient,Pasta,17302,13971,21.3,93.74,3364,High Forecast Error
+2025-06-01,Germany,DC Berlin,Ambient,Rice,10768,12023,11.01,97.52,2091,Under Forecast
+2025-06-01,Germany,DC Berlin,Fresh,Dairy,19209,15779,19.61,93.66,4698,Low Service Level
+2025-06-01,Germany,DC Berlin,Fresh,Produce,12836,11530,10.72,94.09,2382,Low Service Level
+2025-06-01,Germany,DC Berlin,Frozen,Frozen Meals,10057,8647,15.08,94.73,1820,Low Service Level
+2025-06-01,Germany,DC Cologne,Ambient,Pasta,13203,15751,17.6,96.65,3283,Under Forecast
+2025-06-01,Germany,DC Cologne,Ambient,Rice,9734,9068,7.08,94.99,1382,Low Service Level
+2025-06-01,Germany,DC Cologne,Fresh,Dairy,11610,11658,0.41,96.24,1868,Within Tolerance
+2025-06-01,Germany,DC Cologne,Fresh,Produce,12343,14827,18.28,95.26,3935,Under Forecast
+2025-06-01,Germany,DC Cologne,Frozen,Frozen Meals,6695,7878,16.24,90.91,1316,Low Service Level
+2025-06-01,UK,DC Midlands,Ambient,Pasta,9234,11066,18.05,92.12,3410,Low Service Level
+2025-06-01,UK,DC Midlands,Ambient,Rice,12161,10697,12.81,96.48,2241,Over Forecast
+2025-06-01,UK,DC Midlands,Fresh,Dairy,12910,14025,8.28,95.52,4180,Within Tolerance
+2025-06-01,UK,DC Midlands,Fresh,Produce,11109,10404,6.55,96.94,2060,Within Tolerance
+2025-06-01,UK,DC Midlands,Frozen,Frozen Meals,7011,8229,15.98,93.3,2008,Low Service Level
+2025-06-01,UK,DC North,Ambient,Pasta,6679,7534,12.03,95.17,1814,Under Forecast
+2025-06-01,UK,DC North,Ambient,Rice,13043,10824,18.59,91.97,3055,Low Service Level
+2025-06-01,UK,DC North,Fresh,Dairy,9991,10241,2.47,95.82,3397,Within Tolerance
+2025-06-01,UK,DC North,Fresh,Produce,7584,9330,20.65,95.41,2797,High Forecast Error
+2025-06-01,UK,DC North,Frozen,Frozen Meals,11517,11728,1.82,96.13,2703,Within Tolerance
+2025-06-01,Austria,DC Vienna,Ambient,Pasta,11577,11460,1.02,96.02,1810,Within Tolerance
+2025-06-01,Austria,DC Vienna,Ambient,Rice,15738,14078,11.13,95.59,2756,Over Forecast
+2025-06-01,Austria,DC Vienna,Fresh,Dairy,9099,7339,21.41,93.5,1160,High Forecast Error
+2025-06-01,Austria,DC Vienna,Fresh,Produce,9835,9870,0.36,95.39,1839,Within Tolerance
+2025-06-01,Austria,DC Vienna,Frozen,Frozen Meals,15159,14141,6.95,96.03,3105,Within Tolerance
+2025-07-01,Germany,DC Berlin,Ambient,Pasta,11559,12460,7.5,97.58,2895,Within Tolerance
+2025-07-01,Germany,DC Berlin,Ambient,Rice,13795,15117,9.14,94.22,3931,Low Service Level
+2025-07-01,Germany,DC Berlin,Fresh,Dairy,11857,14451,19.72,95.64,4400,Under Forecast
+2025-07-01,Germany,DC Berlin,Fresh,Produce,17892,15431,14.77,98.0,3740,Over Forecast
+2025-07-01,Germany,DC Berlin,Frozen,Frozen Meals,6833,7888,14.33,96.55,2170,Under Forecast
+2025-07-01,Germany,DC Cologne,Ambient,Pasta,6854,7845,13.48,95.8,1864,Under Forecast
+2025-07-01,Germany,DC Cologne,Ambient,Rice,12489,14941,17.88,91.28,2956,Low Service Level
+2025-07-01,Germany,DC Cologne,Fresh,Dairy,8855,9594,8.01,97.95,1870,Within Tolerance
+2025-07-01,Germany,DC Cologne,Fresh,Produce,8789,8858,0.78,97.53,2212,Within Tolerance
+2025-07-01,Germany,DC Cologne,Frozen,Frozen Meals,11947,11781,1.4,96.91,4077,Within Tolerance
+2025-07-01,UK,DC Midlands,Ambient,Pasta,10884,10993,1.0,97.42,2967,Within Tolerance
+2025-07-01,UK,DC Midlands,Ambient,Rice,10875,9236,16.3,93.52,2152,Low Service Level
+2025-07-01,UK,DC Midlands,Fresh,Dairy,13831,15318,10.2,97.99,4863,Within Tolerance
+2025-07-01,UK,DC Midlands,Fresh,Produce,17696,15022,16.35,93.76,3252,Low Service Level
+2025-07-01,UK,DC Midlands,Frozen,Frozen Meals,15164,15903,4.76,94.27,5505,Low Service Level
+2025-07-01,UK,DC North,Ambient,Pasta,11382,10912,4.22,97.07,1732,Within Tolerance
+2025-07-01,UK,DC North,Ambient,Rice,16289,14749,9.92,94.75,4170,Low Service Level
+2025-07-01,UK,DC North,Fresh,Dairy,9567,9492,0.79,97.85,2544,Within Tolerance
+2025-07-01,UK,DC North,Fresh,Produce,10218,8644,16.69,93.66,2087,Low Service Level
+2025-07-01,UK,DC North,Frozen,Frozen Meals,9067,9361,3.19,95.38,2283,Within Tolerance
+2025-07-01,Austria,DC Vienna,Ambient,Pasta,10613,11342,6.64,95.23,3633,Within Tolerance
+2025-07-01,Austria,DC Vienna,Ambient,Rice,15031,15742,4.62,96.73,4752,Within Tolerance
+2025-07-01,Austria,DC Vienna,Fresh,Dairy,12636,15864,22.65,94.83,5302,High Forecast Error
+2025-07-01,Austria,DC Vienna,Fresh,Produce,12052,10727,11.63,96.26,2969,Over Forecast
+2025-07-01,Austria,DC Vienna,Frozen,Frozen Meals,8508,8646,1.61,95.22,1376,Within Tolerance
+2025-08-01,Germany,DC Berlin,Ambient,Pasta,7245,7919,8.89,96.5,2029,Within Tolerance
+2025-08-01,Germany,DC Berlin,Ambient,Rice,8539,9950,15.26,94.07,2726,Low Service Level
+2025-08-01,Germany,DC Berlin,Fresh,Dairy,11043,10945,0.89,95.67,3038,Within Tolerance
+2025-08-01,Germany,DC Berlin,Fresh,Produce,13039,14529,10.81,97.96,4798,Under Forecast
+2025-08-01,Germany,DC Berlin,Frozen,Frozen Meals,13604,15955,15.91,94.2,4268,Low Service Level
+2025-08-01,Germany,DC Cologne,Ambient,Pasta,15312,13951,9.3,96.17,4881,Within Tolerance
+2025-08-01,Germany,DC Cologne,Ambient,Rice,12366,14916,18.69,94.4,3120,Low Service Level
+2025-08-01,Germany,DC Cologne,Fresh,Dairy,9352,11837,23.46,92.49,1795,High Forecast Error
+2025-08-01,Germany,DC Cologne,Fresh,Produce,9355,7803,18.09,91.52,2580,Low Service Level
+2025-08-01,Germany,DC Cologne,Frozen,Frozen Meals,11408,10770,5.75,96.59,2953,Within Tolerance
+2025-08-01,UK,DC Midlands,Ambient,Pasta,9878,9240,6.67,94.39,1957,Low Service Level
+2025-08-01,UK,DC Midlands,Ambient,Rice,11311,14222,22.8,95.15,4721,High Forecast Error
+2025-08-01,UK,DC Midlands,Fresh,Dairy,13882,12352,11.66,97.3,3185,Over Forecast
+2025-08-01,UK,DC Midlands,Fresh,Produce,13308,12994,2.39,94.35,2617,Low Service Level
+2025-08-01,UK,DC Midlands,Frozen,Frozen Meals,18245,14894,20.22,93.21,4630,High Forecast Error
+2025-08-01,UK,DC North,Ambient,Pasta,17944,14673,20.06,93.54,4725,High Forecast Error
+2025-08-01,UK,DC North,Ambient,Rice,16550,13511,20.22,92.68,4163,High Forecast Error
+2025-08-01,UK,DC North,Fresh,Dairy,6517,7228,10.35,97.51,2167,Within Tolerance
+2025-08-01,UK,DC North,Fresh,Produce,11847,11295,4.77,94.71,1939,Low Service Level
+2025-08-01,UK,DC North,Frozen,Frozen Meals,10796,10830,0.31,95.52,2335,Within Tolerance
+2025-08-01,Austria,DC Vienna,Ambient,Pasta,11454,10626,7.5,95.46,3084,Within Tolerance
+2025-08-01,Austria,DC Vienna,Ambient,Rice,11412,13689,18.14,96.71,4780,Under Forecast
+2025-08-01,Austria,DC Vienna,Fresh,Dairy,7342,8902,19.21,93.04,2143,Low Service Level
+2025-08-01,Austria,DC Vienna,Fresh,Produce,15419,15850,2.76,95.03,3693,Within Tolerance
+2025-08-01,Austria,DC Vienna,Frozen,Frozen Meals,10032,8622,15.12,91.72,1776,Low Service Level
+2025-09-01,Germany,DC Berlin,Ambient,Pasta,11501,13070,12.77,96.22,2909,Under Forecast
+2025-09-01,Germany,DC Berlin,Ambient,Rice,13414,13018,3.0,94.09,2989,Low Service Level
+2025-09-01,Germany,DC Berlin,Fresh,Dairy,12387,10109,20.25,90.73,1702,High Forecast Error
+2025-09-01,Germany,DC Berlin,Fresh,Produce,11263,10475,7.25,95.61,3220,Within Tolerance
+2025-09-01,Germany,DC Berlin,Frozen,Frozen Meals,13571,10990,21.02,93.24,3472,High Forecast Error
+2025-09-01,Germany,DC Cologne,Ambient,Pasta,10911,10394,4.85,94.75,3169,Low Service Level
+2025-09-01,Germany,DC Cologne,Ambient,Rice,6395,7046,9.69,94.06,1818,Low Service Level
+2025-09-01,Germany,DC Cologne,Fresh,Dairy,8188,9858,18.51,93.14,2185,Low Service Level
+2025-09-01,Germany,DC Cologne,Fresh,Produce,11452,10898,4.96,97.94,1911,Within Tolerance
+2025-09-01,Germany,DC Cologne,Frozen,Frozen Meals,14203,13897,2.18,95.02,4247,Within Tolerance
+2025-09-01,UK,DC Midlands,Ambient,Pasta,16226,15408,5.17,96.19,4207,Within Tolerance
+2025-09-01,UK,DC Midlands,Ambient,Rice,14280,15543,8.47,95.43,5436,Within Tolerance
+2025-09-01,UK,DC Midlands,Fresh,Dairy,13255,13580,2.42,97.57,3242,Within Tolerance
+2025-09-01,UK,DC Midlands,Fresh,Produce,7725,8323,7.45,97.41,2288,Within Tolerance
+2025-09-01,UK,DC Midlands,Frozen,Frozen Meals,17704,15984,10.21,96.48,3340,Over Forecast
+2025-09-01,UK,DC North,Ambient,Pasta,16176,15282,5.68,97.6,4899,Within Tolerance
+2025-09-01,UK,DC North,Ambient,Rice,10289,10522,2.24,94.45,3320,Low Service Level
+2025-09-01,UK,DC North,Fresh,Dairy,13144,13532,2.91,97.62,3830,Within Tolerance
+2025-09-01,UK,DC North,Fresh,Produce,16003,13132,19.71,92.83,2209,Low Service Level
+2025-09-01,UK,DC North,Frozen,Frozen Meals,6911,8398,19.43,94.4,2623,Low Service Level
+2025-09-01,Austria,DC Vienna,Ambient,Pasta,8379,7982,4.85,95.75,1392,Within Tolerance
+2025-09-01,Austria,DC Vienna,Ambient,Rice,15120,12793,16.67,91.97,4262,Low Service Level
+2025-09-01,Austria,DC Vienna,Fresh,Dairy,9610,7842,20.26,93.54,2083,High Forecast Error
+2025-09-01,Austria,DC Vienna,Fresh,Produce,8925,10485,16.07,92.53,2307,Low Service Level
+2025-09-01,Austria,DC Vienna,Frozen,Frozen Meals,10845,13022,18.24,95.21,3071,Under Forecast
+2025-10-01,Germany,DC Berlin,Ambient,Pasta,7877,7430,5.84,95.37,1158,Within Tolerance
+2025-10-01,Germany,DC Berlin,Ambient,Rice,12662,11477,9.82,96.76,1736,Over Forecast
+2025-10-01,Germany,DC Berlin,Fresh,Dairy,9726,9347,3.97,96.4,2586,Within Tolerance
+2025-10-01,Germany,DC Berlin,Fresh,Produce,6168,7502,19.52,93.75,1806,Low Service Level
+2025-10-01,Germany,DC Berlin,Frozen,Frozen Meals,9101,9578,5.11,95.11,2524,Within Tolerance
+2025-10-01,Germany,DC Cologne,Ambient,Pasta,9955,8391,17.05,94.11,1342,Low Service Level
+2025-10-01,Germany,DC Cologne,Ambient,Rice,7545,8336,9.96,95.35,1987,Within Tolerance
+2025-10-01,Germany,DC Cologne,Fresh,Dairy,10088,11475,12.86,95.95,1976,Under Forecast
+2025-10-01,Germany,DC Cologne,Fresh,Produce,15307,14972,2.21,96.77,5194,Within Tolerance
+2025-10-01,Germany,DC Cologne,Frozen,Frozen Meals,6188,7897,24.27,95.16,1401,High Forecast Error
+2025-10-01,UK,DC Midlands,Ambient,Pasta,10214,11186,9.08,97.52,2641,Within Tolerance
+2025-10-01,UK,DC Midlands,Ambient,Rice,8705,9116,4.61,95.19,2887,Within Tolerance
+2025-10-01,UK,DC Midlands,Fresh,Dairy,10410,12802,20.61,93.43,1968,High Forecast Error
+2025-10-01,UK,DC Midlands,Fresh,Produce,9736,8275,16.22,92.98,2415,Low Service Level
+2025-10-01,UK,DC Midlands,Frozen,Frozen Meals,12641,13843,9.08,96.38,2552,Within Tolerance
+2025-10-01,UK,DC North,Ambient,Pasta,16904,14538,15.05,93.06,4636,Low Service Level
+2025-10-01,UK,DC North,Ambient,Rice,10771,10986,1.98,96.4,3561,Within Tolerance
+2025-10-01,UK,DC North,Fresh,Dairy,11079,12562,12.55,94.88,3475,Low Service Level
+2025-10-01,UK,DC North,Fresh,Produce,15922,15693,1.45,94.38,4637,Low Service Level
+2025-10-01,UK,DC North,Frozen,Frozen Meals,8371,9419,11.78,97.41,2548,Under Forecast
+2025-10-01,Austria,DC Vienna,Ambient,Pasta,7093,8234,14.89,94.91,2478,Low Service Level
+2025-10-01,Austria,DC Vienna,Ambient,Rice,15694,14354,8.92,94.47,4985,Low Service Level
+2025-10-01,Austria,DC Vienna,Fresh,Dairy,14478,12295,16.31,94.04,2012,Low Service Level
+2025-10-01,Austria,DC Vienna,Fresh,Produce,15248,14245,6.8,94.81,3139,Low Service Level
+2025-10-01,Austria,DC Vienna,Frozen,Frozen Meals,7581,8215,8.03,96.19,2599,Within Tolerance
+2025-11-01,Germany,DC Berlin,Ambient,Pasta,8889,8257,7.37,94.09,2220,Low Service Level
+2025-11-01,Germany,DC Berlin,Ambient,Rice,13204,13299,0.72,95.78,4378,Within Tolerance
+2025-11-01,Germany,DC Berlin,Fresh,Dairy,17215,14368,18.03,94.15,3894,Low Service Level
+2025-11-01,Germany,DC Berlin,Fresh,Produce,12923,15214,16.28,96.44,5018,Under Forecast
+2025-11-01,Germany,DC Berlin,Frozen,Frozen Meals,15554,12626,20.78,94.72,1993,High Forecast Error
+2025-11-01,Germany,DC Cologne,Ambient,Pasta,17515,14172,21.1,93.07,3157,High Forecast Error
+2025-11-01,Germany,DC Cologne,Ambient,Rice,11148,11634,4.27,94.9,1867,Low Service Level
+2025-11-01,Germany,DC Cologne,Fresh,Dairy,10114,12482,20.96,94.59,2582,High Forecast Error
+2025-11-01,Germany,DC Cologne,Fresh,Produce,8832,9463,6.9,95.67,2082,Within Tolerance
+2025-11-01,Germany,DC Cologne,Frozen,Frozen Meals,11264,13421,17.48,93.91,3513,Low Service Level
+2025-11-01,UK,DC Midlands,Ambient,Pasta,14288,12381,14.3,95.32,3687,Over Forecast
+2025-11-01,UK,DC Midlands,Ambient,Rice,12858,15624,19.42,92.79,2401,Low Service Level
+2025-11-01,UK,DC Midlands,Fresh,Dairy,10407,12060,14.71,97.14,2982,Under Forecast
+2025-11-01,UK,DC Midlands,Fresh,Produce,13282,10711,21.43,95.49,3295,High Forecast Error
+2025-11-01,UK,DC Midlands,Frozen,Frozen Meals,17379,15317,12.61,94.66,2413,Low Service Level
+2025-11-01,UK,DC North,Ambient,Pasta,14809,12517,16.78,92.74,2264,Low Service Level
+2025-11-01,UK,DC North,Ambient,Rice,11580,9962,15.02,91.49,1824,Low Service Level
+2025-11-01,UK,DC North,Fresh,Dairy,11337,14170,22.21,93.38,4873,High Forecast Error
+2025-11-01,UK,DC North,Fresh,Produce,13139,11668,11.86,94.86,2308,Low Service Level
+2025-11-01,UK,DC North,Frozen,Frozen Meals,17560,14684,17.84,94.19,3878,Low Service Level
+2025-11-01,Austria,DC Vienna,Ambient,Pasta,14110,14218,0.76,96.87,3633,Within Tolerance
+2025-11-01,Austria,DC Vienna,Ambient,Rice,11159,9655,14.45,94.79,1931,Low Service Level
+2025-11-01,Austria,DC Vienna,Fresh,Dairy,17581,14873,16.69,94.47,4747,Low Service Level
+2025-11-01,Austria,DC Vienna,Fresh,Produce,8238,9042,9.31,94.95,2993,Low Service Level
+2025-11-01,Austria,DC Vienna,Frozen,Frozen Meals,10942,9414,15.01,93.9,2950,Low Service Level
+2025-12-01,Germany,DC Berlin,Ambient,Pasta,15374,12727,18.84,94.15,2861,Low Service Level
+2025-12-01,Germany,DC Berlin,Ambient,Rice,16491,13326,21.23,95.42,4480,High Forecast Error
+2025-12-01,Germany,DC Berlin,Fresh,Dairy,14292,12493,13.43,97.45,3947,Over Forecast
+2025-12-01,Germany,DC Berlin,Fresh,Produce,10470,9273,12.13,96.12,3071,Over Forecast
+2025-12-01,Germany,DC Berlin,Frozen,Frozen Meals,6563,7311,10.78,94.66,2160,Low Service Level
+2025-12-01,Germany,DC Cologne,Ambient,Pasta,15251,15647,2.56,94.9,2728,Low Service Level
+2025-12-01,Germany,DC Cologne,Ambient,Rice,10613,10906,2.72,94.82,1878,Low Service Level
+2025-12-01,Germany,DC Cologne,Fresh,Dairy,16017,15189,5.31,97.93,3013,Within Tolerance
+2025-12-01,Germany,DC Cologne,Fresh,Produce,8548,9352,8.98,97.99,2470,Within Tolerance
+2025-12-01,Germany,DC Cologne,Frozen,Frozen Meals,10930,10068,8.21,97.66,1646,Within Tolerance
+2025-12-01,UK,DC Midlands,Ambient,Pasta,16091,15618,2.98,94.85,2406,Low Service Level
+2025-12-01,UK,DC Midlands,Ambient,Rice,11762,14702,22.22,94.33,4403,High Forecast Error
+2025-12-01,UK,DC Midlands,Fresh,Dairy,14684,12850,13.32,96.62,3542,Over Forecast
+2025-12-01,UK,DC Midlands,Fresh,Produce,10473,12447,17.23,94.58,3467,Low Service Level
+2025-12-01,UK,DC Midlands,Frozen,Frozen Meals,17990,14612,20.72,94.54,2586,High Forecast Error
+2025-12-01,UK,DC North,Ambient,Pasta,11555,14498,22.59,93.82,4743,High Forecast Error
+2025-12-01,UK,DC North,Ambient,Rice,14718,12170,18.95,91.97,3147,Low Service Level
+2025-12-01,UK,DC North,Fresh,Dairy,8885,11150,22.61,93.55,3595,High Forecast Error
+2025-12-01,UK,DC North,Fresh,Produce,9170,7783,16.36,95.3,1740,Over Forecast
+2025-12-01,UK,DC North,Frozen,Frozen Meals,15205,13553,11.49,94.42,4672,Low Service Level
+2025-12-01,Austria,DC Vienna,Ambient,Pasta,16617,15129,9.37,96.53,3076,Within Tolerance
+2025-12-01,Austria,DC Vienna,Ambient,Rice,9309,8353,10.83,97.68,2627,Over Forecast
+2025-12-01,Austria,DC Vienna,Fresh,Dairy,14584,15937,8.87,97.59,3333,Within Tolerance
+2025-12-01,Austria,DC Vienna,Fresh,Produce,15123,14305,5.56,96.3,3152,Within Tolerance
+2025-12-01,Austria,DC Vienna,Frozen,Frozen Meals,8573,7693,10.82,94.35,1823,Low Service Level
